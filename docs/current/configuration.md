@@ -2,6 +2,6 @@
 layout: default
 title: Configuration
 nav_order: 3
-parent: current
+parent: Current
 permalink: /current/configuration
 ---

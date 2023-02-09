@@ -2,6 +2,6 @@
 layout: default
 title: Usage
 nav_order: 2
-parent: current
+parent: Current
 permalink: /current/usage
 ---

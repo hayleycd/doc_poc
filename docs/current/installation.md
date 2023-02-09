@@ -2,6 +2,6 @@
 layout: default
 title: Installation
 nav_order: 1
-parent: current
+parent: Current
 permalink: /current/installation
 ---
