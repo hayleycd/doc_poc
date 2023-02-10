@@ -6,6 +6,6 @@ nav_order: 1
 permalink: /current/
 ---
 {: .note }
-These documents match the current version of the product. Upcoming features are documented [here](../upcoming/).
+These documents match the current version of the product. Work in progress version is [here](../working/).
 
 # Current Docs
