@@ -22,8 +22,14 @@ Deprecated tags can be used to help communicate about recently deprecated items.
 
 ## Upcoming docs
 
+Upcoming docs are hidden from the nav, but can be accessed if you know the url. 
+
 There is a callout on the [upcoming page](./upcoming/) to let people know that they are browsing docs that are actively being developed. There is a link included back to the current docs. These callouts are included on each child page too, to help make sure people know where they are in the docs. 
 
 Coming soon
 {: .label .label-yellow }
 Coming soon labels can help indicate areas in these docs that are actively under development. 
+
+# Notes
+
+I am not married to any of the terminology, I just tried to use descriptive words to convey the organization of the docs. 
