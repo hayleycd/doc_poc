@@ -30,6 +30,6 @@ Coming soon
 {: .label .label-yellow }
 Coming soon labels can help indicate areas in these docs that are actively under development. 
 
-# Notes
+## Notes
 
 I am not married to any of the terminology, I just tried to use descriptive words to convey the organization of the docs. 
