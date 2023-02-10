@@ -1,12 +1,15 @@
 ---
 layout: default
-title: Upcoming
-has_children: true
+title: Usage
 nav_order: 2
 nav_exclude: true
-permalink: /upcoming/
+parent: Working
+permalink: /working/usage
 ---
+
 {: .warning }
 Documentation in this section may include features and options that have not yet been released. Current Docs are available [here](../current/)
 
-# Upcoming docs
+# Working usage docs
+
+This is where the working usage docs will live.
