@@ -2,6 +2,7 @@
 layout: default
 title: Usage
 nav_order: 2
+nav_exclude: true
 parent: Upcoming
 permalink: /upcoming/usage
 ---
